@@ -58,18 +58,22 @@
     </build>
 
     <dependencies>
+
+        <!-- Logging Dependencies -->
         <dependency>
             <groupId>log4j</groupId>
             <artifactId>log4j</artifactId>
             <version>1.2.17</version>
         </dependency>
 
+        <!-- MySQL Libraries -->
         <dependency>
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
             <version>5.1.38</version>
         </dependency>
 
+        <!-- Testing Libraries -->
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>

@@ -57,12 +57,15 @@
     </build>
 
     <dependencies>
+
+        <!-- Logging Dependencies -->
         <dependency>
             <groupId>log4j</groupId>
             <artifactId>log4j</artifactId>
             <version>1.2.17</version>
         </dependency>
 
+        <!-- Testing Libraries -->
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
